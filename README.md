@@ -1,4 +1,2 @@
 # curriculo
-Meu currículo
-
-[curriculo](https://lucashspiess.github.io/curriculo/)
+[Meu currículo](https://lucashspiess.github.io/curriculo/)
